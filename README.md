@@ -8,4 +8,5 @@ The following characteristics are supported in the text editor.
 4. Inserting Image 
 5. Scroll-bar 
 6. Spell-Checking 
-7. Exiting 
+7. Drawing Shapes
+8. Exiting 
